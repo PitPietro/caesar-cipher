@@ -1,5 +1,2 @@
 # caesar-cipher
-<<<<<<< HEAD
-=======
-Caesar Cipher in Java
->>>>>>> origin/master
+Caesar Cipher in Java & Kotlin
