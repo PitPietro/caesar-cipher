@@ -1,3 +1,5 @@
+package java_caesar;
+
 import java.util.Scanner;
 
 public class AllKeyDecryption {
