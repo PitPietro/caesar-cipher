@@ -1,6 +1,10 @@
 package kotlin_caesar
 import java.util.*
 
+/**
+ * Kotlin version of 'AllKeyDecryption' java class.
+ * It is used to print all the decryption possibilities.
+ */
 class AllKeyDecryption {
     private val sc: Scanner = Scanner(System.`in`)
     private var message: String? = null
